@@ -1,4 +1,4 @@
-package com.raghib.amazon;
+package com.raghib.browser;
 
 /**
  * REFERENCES:-
